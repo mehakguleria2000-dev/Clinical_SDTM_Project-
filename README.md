@@ -1,7 +1,7 @@
 # Clinical Trial SDTM Dataset Creation and Validation using SAS
 
 ### Overview
-"This project demonstrates transforming mock clinical trial raw data into CDISC-compliant SDTM domains (DM, AE, VS) using SAS. It follows SDTM V3.4 GUIDELINES".
+"This project demonstrates transforming mock clinical trial raw data into CDISC-compliant SDTM domains (DM, AE, VS) using SAS. It follows SDTM V3.4 Guidelines".
 
 ### Objectives
 - Import and Clean raw Clinical data
