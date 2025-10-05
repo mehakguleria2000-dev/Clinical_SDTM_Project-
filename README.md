@@ -8,6 +8,11 @@
 - Map data to SDTM domains
 - Validate and summarize results
 
+### Domains Implemented
+- **DM**- Demographics
+- **AE**- Adverse Events
+- **VS**- Vital Signs
+
 ### Tools
 - SAS 9.4
 - Excel for raw data creation
@@ -17,6 +22,11 @@
 - SDTM datasets: DM, AE, VS
 - Validation report
 - Summary statistical tables
+
+### Key Features
+- Used SDTM v3.4 VARIABLES: AETERM, VSDTC, AESEV.
+- SDTM Validation (PROC COMPARE).
+- Created mapping specs and validation report.
 
 ### Author
 **Mehak Guleria** - Clinical SAS Trainee | B.Sc. Nursing | Aspiring Data Analyst
